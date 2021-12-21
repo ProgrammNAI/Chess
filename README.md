@@ -1,7 +1,7 @@
 # Chess
 ## Результаты тестирования
-![image](https://user-images.githubusercontent.com/90498579/144757870-345f257a-8e2e-4e79-ab1d-7441643617c6.png)
-![image](https://user-images.githubusercontent.com/90498579/144757900-14ae4495-6390-4755-9936-7480fe742372.png)
+![image](https://user-images.githubusercontent.com/90498579/146928307-d643705a-f83b-49a8-9ada-28112eefec85.png)
+
 # Входные данные: 
 натуральные числа k, l, m, n, наименования фигур для пп. б) и в)
 # Выходные данные:
